@@ -1,0 +1,2 @@
+# graphical-password-using-image-segmentation
+The project allows user to input an image as an alternative to a textual password, the system segments the image into an array of images and stores them accordingly. The next time user logs on to the system the segmented image is presented by the system in a jumbled order. In order to login successfully, the user has to arrange the jumbled images.Now if user chooses the parts of image in an order so as to make the original image he sent then user is considered authentic. Else the user is not granted access.
