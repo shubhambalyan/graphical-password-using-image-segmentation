@@ -220,7 +220,7 @@ $conns->close();
      echo "<tr><td>Name</td><td>".$name."</td></tr>";
      echo "</table>";
     ?>
-    <a href="main.php"><img src="back.gif" width="130px" height="50px" id="id7"></a>
+    <a href="main.html"><img src="images/back.gif" width="130px" height="50px" id="id7"></a>
     <div>
     	<footer id="four">
     		<h5 id="five">&copy;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GRAPHICAL PASSWORD</h5>

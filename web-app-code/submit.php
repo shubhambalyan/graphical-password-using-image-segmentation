@@ -74,7 +74,7 @@ else
         <img src="images/img2.jpg" width="1365" height="400" alt="Home" usemap="#new">
         <map name="new">
             <area shape="poly" coords="167,72,343,71,346,241,168,243" alt="Image" href="image.php">
-            <area shape="poly" coords="568,71,747,71,745,240,564,242" alt="Fragment" href="fragment.php">
+            <area shape="poly" coords="568,71,747,71,745,240,564,242" alt="Fragment" href="fragment.html">
             <area shape="poly" coords="968,72,1145,72,1145,244,969,240" alt="Logout" href="main.html">
         </map>
     </div>
